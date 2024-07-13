@@ -1,6 +1,5 @@
 export default class Project {
-    constructor(title) {
-        this.title = title
-    }
-
+  constructor(title) {
+    this.title = title;
+  }
 }

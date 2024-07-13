@@ -1,4 +1,4 @@
-import './style.css';
-import renderLoadup from './modules/renderLoadup';
+import "./style.css";
+import renderLoadup from "./modules/renderLoadup";
 
-renderLoadup()
+renderLoadup();
